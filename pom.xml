@@ -13,6 +13,7 @@
         <module>oss-starter</module>
         <module>ueditor-starter</module>
         <module>sts-starter</module>
+        <module>weixin-starter</module>
     </modules>
     <packaging>pom</packaging>
 
