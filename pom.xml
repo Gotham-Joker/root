@@ -136,6 +136,14 @@
         </plugins>
     </build>
 
+    <distributionManagement>
+        <repository>
+            <id>nexus</id>
+            <name>release</name>
+            <url>http://www.litwen.com:4244/repository/maven-releases/</url>
+        </repository>
+    </distributionManagement>
+
     <repositories>
         <repository>
             <id>spring-milestones</id>
