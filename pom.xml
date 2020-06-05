@@ -14,6 +14,9 @@
         <module>ueditor-starter</module>
         <module>sts-starter</module>
         <module>weixin-starter</module>
+        <module>commons-core</module>
+        <module>authorization-starter</module>
+        <module>redis-starter</module>
     </modules>
     <packaging>pom</packaging>
 
