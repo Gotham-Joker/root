@@ -17,6 +17,7 @@
         <module>commons-core</module>
         <module>authorization-starter</module>
         <module>redis-starter</module>
+        <module>api-caller</module>
     </modules>
     <packaging>pom</packaging>
 
