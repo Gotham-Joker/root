@@ -33,7 +33,7 @@
         <project.build.locales>zh_CN</project.build.locales>
         <spring.boot.version>2.1.15.RELEASE</spring.boot.version>
         <mysql.version>8.0.16</mysql.version>
-        <swagger.version>2.9.2</swagger.version>
+        <swagger.version>2.10.0</swagger.version>
     </properties>
 
 
